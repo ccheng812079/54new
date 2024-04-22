@@ -1,0 +1,1 @@
+<a href="loginout.php"><h2>登出</h2></a>
